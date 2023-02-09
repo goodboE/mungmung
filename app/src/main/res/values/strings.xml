@@ -19,6 +19,7 @@
     <string name="action_log_in">Log in</string>
     <string name="check_puppy">Do you have any puppy?</string>
     <string name="check_center">Are you a center for protecting dogs?</string>
+    <string name="search">Search</string>
 
 
     <string name="welcome">"Welcome!"</string>
